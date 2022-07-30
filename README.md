@@ -3,6 +3,13 @@ My name is Charlie Sale. I am currently a sophomore at Purdue University West La
 I am passionate about software development and have been learning as much as I can since I was about 13 years old.
 
 ### Experience
+#### OneCause - Software Engineering Intern (May 2022 - Present)
+* Delivered multiple client-facing features across multiple epics to production
+* Lead and participated in feature planning and software design meetings, collaborated with team and product managers to plan well-designed software
+* Wrote unit tests to ensure well-defined, defect-free software
+* Participated in PR review and peer feedback, reviewed and approved other developers' PRs
+Skills: SQL · TypeScript · Jest · Jasmine Framework · Go (Programming Language) · Angular
+
 #### Duality Lab Purdue – Research Assistant (August 2020 – Present) 
 * Designing research experiments supporting a project to make regular expressions easier to use by developers. 
 * Implementing prototypes related to the project in C++, Java, and Python 
