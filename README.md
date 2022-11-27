@@ -1,5 +1,5 @@
 # Hello there!
-My name is Charlie Sale. I am currently a sophomore at Purdue University West Lafeyette studying computer science.
+My name is Charlie Sale. I am currently a junior at Purdue University West Lafayette studying computer science.
 I am passionate about software development and have been learning as much as I can since I was about 13 years old.
 
 ### Experience
