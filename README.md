@@ -11,6 +11,7 @@ Skills: Kotlin · Android · Jetpack Compose · Kotlin Multiplatform
 * Lead and participated in feature planning and software design meetings, collaborated with team and product managers to plan well-designed software
 * Wrote unit tests to ensure well-defined, defect-free software
 * Participated in PR review and peer feedback, reviewed and approved other developers' PRs
+
 Skills: SQL · TypeScript · Jest · Jasmine Framework · Go (Programming Language) · Angular
 
 #### Duality Lab Purdue – Research Assistant (August 2020 – Present) 
