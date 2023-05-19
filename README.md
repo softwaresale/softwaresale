@@ -3,7 +3,10 @@ My name is Charlie Sale. I am currently a junior at Purdue University West Lafay
 I am passionate about software development and have been learning as much as I can since I was about 13 years old.
 
 ### Experience
-#### OneCause - Software Engineering Intern (May 2022 - Present)
+#### Outside Source - Software Engineering Intern (May 2023 - Present)
+Skills: Kotlin · Android · Jetpack Compose · Kotlin Multiplatform
+
+#### OneCause - Software Engineering Intern (May 2022 - August 2022)
 * Delivered multiple client-facing features across multiple epics to production
 * Lead and participated in feature planning and software design meetings, collaborated with team and product managers to plan well-designed software
 * Wrote unit tests to ensure well-defined, defect-free software
