@@ -20,6 +20,8 @@ Skills: SQL · TypeScript · Jest · Jasmine Framework · Go (Programming Langua
 * Active role in project direction and decision making 
 * Collecting, interpreting, and communicating results; reviewing peer-reviewed literature; and thinking empirically about software engineering 
 
+Skills: C++ · Java · Python · Bazel
+
 #### Fusion Alliance – Summer Intern (May 2021 – August 2021) 
 
 * Joined mature Agile team at Liberty Mutual Insurance to maintain a client-facing web application and participated in SAFE Agile rituals such as daily standups, retrospectives, demos, and planning events. 
@@ -28,8 +30,12 @@ Skills: SQL · TypeScript · Jest · Jasmine Framework · Go (Programming Langua
 
 * Worked with a senior developer to design and implement a new microservice to tie together multiple enterprise systems 
 
+Skills: Angular · TypeScript · Spring Boot · Java · Kotlin
+
 #### Fusion Alliance - Summer Intern (May 2020 – August 2020) 
 
 * Lead a team of interns to create a new internal web application for Liberty Mutual Insurance; collaborated with product owners and senior developers to write feature requirements and design the application; delivered minimum viable product by the end of the internship 
 
 * Developed project with Angular, Spring, and AWS; designed project’s architecture and wrote unit tests 
+
+Skills: Angular · TypeScript · Spring Boot · Java
