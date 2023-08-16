@@ -3,7 +3,12 @@ My name is Charlie Sale. I am currently a senior at Purdue University West Lafay
 I am passionate about software development and have been learning as much as I can since I was about 13 years old.
 
 ### Experience
-#### Outside Source - Software Engineering Intern (May 2023 - Present)
+#### Outside Source - Software Engineering Intern (May 2023 - August 2023)
+* Developed native mobile applications for clients in the IoT device industry. 
+* Learned Jetpack Compose and internal application architectures quickly during onboarding phase to continue to projects. 
+* Consulted for four different clients, made substantial contributions to each project. 
+* Developed an app from scratch with a team, helped make architectural and design decisions.
+
 Skills: Kotlin · Android · Jetpack Compose · Kotlin Multiplatform
 
 #### OneCause - Software Engineering Intern (May 2022 - August 2022)
