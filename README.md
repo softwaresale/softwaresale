@@ -29,18 +29,19 @@ Skills: C++ · Java · Python · Bazel
 
 #### Fusion Alliance – Summer Intern (May 2021 – August 2021) 
 
-* Joined mature Agile team at Liberty Mutual Insurance to maintain a client-facing web application and participated in SAFE Agile rituals such as daily standups, retrospectives, demos, and planning events. 
-
+* Joined mature Agile team at Liberty Mutual Insurance to maintain a client-facing web application
+* Participated in SAFE Agile rituals such as daily standups, retrospectives, demos, and planning events. 
 * Delivered a refactoring project to reduce data dependencies of a portion of the application while preserving functionality 
-
 * Worked with a senior developer to design and implement a new microservice to tie together multiple enterprise systems 
 
 Skills: Angular · TypeScript · Spring Boot · Java · Kotlin
 
 #### Fusion Alliance - Summer Intern (May 2020 – August 2020) 
 
-* Lead a team of interns to create a new internal web application for Liberty Mutual Insurance; collaborated with product owners and senior developers to write feature requirements and design the application; delivered minimum viable product by the end of the internship 
-
-* Developed project with Angular, Spring, and AWS; designed project’s architecture and wrote unit tests 
+* Lead a team of interns to create a new internal web application for Liberty Mutual Insurance
+* Collaborated with product owners and senior developers to write feature requirements and design the application
+* Delivered minimum viable product by the end of the internship 
+* Developed project with Angular, Spring, and AWS
+* Designed project’s architecture and wrote unit tests
 
 Skills: Angular · TypeScript · Spring Boot · Java
