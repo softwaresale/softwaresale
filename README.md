@@ -3,6 +3,15 @@ My name is Charlie Sale. I am currently a senior at Purdue University West Lafay
 I am passionate about software development and have been learning as much as I can since I was about 13 years old.
 
 ### Experience
+
+#### Duality Lab Purdue – Research Assistant (August 2020 – Present) 
+* Designing research experiments supporting a project to make regular expressions easier to use by developers. 
+* Implementing prototypes related to the project in Rust, C++, Java, and Python 
+* Active role in project direction and decision making 
+* Collecting, interpreting, and communicating results; reviewing peer-reviewed literature; and thinking empirically about software engineering 
+
+Skills: Rust · C++ · Java · Python · Bazel · High-Performance Computing
+
 #### Outside Source - Software Engineering Intern (May 2023 - August 2023)
 * Developed native mobile applications for clients in the IoT device industry. 
 * Learned Jetpack Compose and internal application architectures quickly during onboarding phase to continue to projects. 
@@ -18,14 +27,6 @@ Skills: Kotlin · Android · Jetpack Compose · Kotlin Multiplatform
 * Participated in PR review and peer feedback, reviewed and approved other developers' PRs
 
 Skills: SQL · TypeScript · Jest · Jasmine Framework · Go (Programming Language) · Angular
-
-#### Duality Lab Purdue – Research Assistant (August 2020 – Present) 
-* Designing research experiments supporting a project to make regular expressions easier to use by developers. 
-* Implementing prototypes related to the project in C++, Java, and Python 
-* Active role in project direction and decision making 
-* Collecting, interpreting, and communicating results; reviewing peer-reviewed literature; and thinking empirically about software engineering 
-
-Skills: C++ · Java · Python · Bazel
 
 #### Fusion Alliance – Summer Intern (May 2021 – August 2021) 
 
