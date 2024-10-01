@@ -5,8 +5,10 @@ I am passionate about software development and have been learning as much as I c
 ### Skills
 - Rust
 - C++
+- Java (Spring Framework)
 - Angular (TypeScript, HTML, SCSS)
 - SQL
+- Kotlin
 - Python
 
 ### Experience
