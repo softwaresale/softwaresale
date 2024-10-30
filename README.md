@@ -7,6 +7,7 @@ I am passionate about software development and have been learning as much as I c
 - C++
 - Java (Spring Framework)
 - Angular (TypeScript, HTML, SCSS)
+- Go
 - SQL
 - Kotlin
 - Python
